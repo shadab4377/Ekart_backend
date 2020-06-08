@@ -13,6 +13,7 @@ public class Seller {
 	private String address;
 	private List<Product> products;
 	private String errorMessage;
+	private String price;
 	
 	public String getConfirmNewPassword() {
 		return confirmNewPassword;
